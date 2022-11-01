@@ -1,6 +1,6 @@
 # rust
 
-Make sure you have rustc installed.
+Install Rust
 
 To create an executable run the following command:
 rustc stuff.rs
